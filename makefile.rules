@@ -1,0 +1,6 @@
+CC = gcc
+CFLAGS = -Wall -W -Werror -pedantic
+LFLAGS = 
+NAME_PROJ = Crepo
+FILES = crepo.c print.c 
+EXEC = crepo.cgi
